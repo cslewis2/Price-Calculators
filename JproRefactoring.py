@@ -1,6 +1,5 @@
-lets do it agai...NOTT nlhlhhy
+lets do it again...tis is ridiculous!!!
 
-#indoor full court jr pro rates@@@
 def jpro_lesson_prices():
     jpro_member = 67
     jpro_nonmember = 74   

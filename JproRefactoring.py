@@ -1,8 +1,6 @@
-#check mgit tablet local changes
-#test push...old dog new trick...forgot hashtag on this line
-#TEST TEST RETURN TO GITHUB!!!
+lets do it agai...
 
-#indoor full court jr pro rates
+#indoor full court jr pro rates@@@
 def jpro_lesson_prices():
     jpro_member = 67
     jpro_nonmember = 74   

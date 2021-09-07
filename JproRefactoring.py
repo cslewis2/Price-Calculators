@@ -1,4 +1,4 @@
-lets do it agai...
+lets do it agai...NOTT
 
 #indoor full court jr pro rates@@@
 def jpro_lesson_prices():
